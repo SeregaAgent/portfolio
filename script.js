@@ -10,7 +10,7 @@
     const STORAGE_KEY = 'portfolio_visit_counted';
     const NAMESPACE = 'ramzil-portfolio';
     const KEY = 'visits';
-
+    const API_KEY= 'dev';
     /**
      * Попытка использовать CountAPI.xyz
      */
